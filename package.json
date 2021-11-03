@@ -1,6 +1,6 @@
 {
   "name": "assets.arc.codes",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "dependencies": {
     "@architect/architect": "^9.1.0"
   }
